@@ -213,6 +213,8 @@ function create_config( )
       "id",
       "join",
       "leave",
+      "block",
+      "hello",
       "anti-bot",
       "autoleave",
       "invite",
