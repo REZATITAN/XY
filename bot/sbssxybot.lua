@@ -215,6 +215,8 @@ function create_config( )
       "leave",
       "block",
       "hello",
+      "echo",
+      "getlink",
       "anti-bot",
       "autoleave",
       "invite",
